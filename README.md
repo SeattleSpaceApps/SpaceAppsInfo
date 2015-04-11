@@ -13,3 +13,4 @@ The following are some resources provided by NASA relevant to the International 
 
 ## Other Resources
 - [IBM Bluemix](http://ibm.biz/spaceappchallenge): Next-Generation Cloud App Development Platform
+- [Space App Challenge on IBM Bluemix](http://ibm.biz/spaceapp2015): International Space App Challenge specific resources from IBM Bluemix
