@@ -12,4 +12,4 @@ The following are some resources provided by NASA relevant to the International 
 - [NASA on Github](https://github.com/nasa): NASA's github page
 
 ## Other Resources
-- [IBM Bluemix](http://ibm.biz/spaceappchallenge)
+- [IBM Bluemix](http://ibm.biz/spaceappchallenge): Next-Generation Cloud App Development Platform
